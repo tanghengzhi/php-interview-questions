@@ -13,3 +13,7 @@ for($i = 0; $i < count($array) - 1; $i++) {
 }
 
 echo $max, "\n";
+
+// TODO: 分治法
+
+// TODO: 动态规划
