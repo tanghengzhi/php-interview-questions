@@ -1,2 +1,2 @@
 #!/bin/bash
-gitbook build && mv _book docs
+rm -rf docs && gitbook build && mv _book docs
